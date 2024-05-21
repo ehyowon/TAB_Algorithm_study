@@ -27,7 +27,3 @@ https://www.acmicpc.net/problem/3085
 
 ### 예제출력
 >3
-
----
-
-## 코드
