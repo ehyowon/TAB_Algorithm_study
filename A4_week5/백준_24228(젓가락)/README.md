@@ -20,6 +20,7 @@ https://www.acmicpc.net/problem/24228
 
 <img width="701" alt="image" src="https://github.com/ehyowon/Algorithm_study/assets/129304827/c0b3cfb4-6a36-4c31-afd3-55ac5ab37428">
 ---
+
 ## 코드 작성
 원래는 젓가락의 종류를 숫자로 표현하여 만약 n이 3이라면 각각 0, 1, 2로 표현하고 chop이라는 배열에 append해주고, 짝이 맞으면 pop하여 r개의 짝을 만들면 현재까지의 전체 젓가락 개수를 세는 방식으로 작성하려고 했지만 계속하여 시간초과가 발생하여 생각해본 결과 규칙을 찾을 수 있었다.
 
